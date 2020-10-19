@@ -1,14 +1,16 @@
-[
-  {
-    "title": "homework 1"
-  },
-  {
-    "title": "homework 2"
-  },
-  {
-    "title": "homework 3"
-  },
-  {
-    "title": "homework 4"
-  }
-]
+{
+  "todos": [
+    {
+      "title": "homework 1"
+    },
+    {
+      "title": "homework 2"
+    },
+    {
+      "title": "homework 3"
+    },
+    {
+      "title": "homework 4"
+    }
+  ]
+}
